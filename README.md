@@ -89,7 +89,9 @@ if __name__ == "__main__":
     agent.monitor_health()
 ```
 ### Output
+
 <img width="1916" height="1027" alt="Screenshot 2026-02-02 081030" src="https://github.com/user-attachments/assets/7723e147-70d7-4388-9343-6e54de99feb8" />
+
 
 <img width="544" height="90" alt="Screenshot 2026-02-02 081038" src="https://github.com/user-attachments/assets/3848a85b-28e7-4d35-845f-43976fddacec" />
 
